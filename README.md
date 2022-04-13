@@ -16,3 +16,7 @@ Bu script sadece uygun fiyatın o an için geldiğini anlar, ama dakikalar için
 
 **İşleminiz için geçerli fee ücreti, işlemi yaptığınız platform tarafından gösterilen değerdir. Sizden işlem yaptığınız platformun o esnada bildirdiği miktarda fee alınır**
 **Kendi kontrollerinizi yapmadan işlem yapmamalısınız.**
+
+**Açık kaynak kurlum gerektirmeyen sürüm için...**
+
+https://mega.nz/file/tmRyzIpa#617t42K78BS169M6K4E_Drahp-I5iDyw9M6RE1FhCzM
