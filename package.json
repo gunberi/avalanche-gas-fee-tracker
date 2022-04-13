@@ -1,0 +1,30 @@
+{
+  "name": "avalanche-gas-fee-tracker",
+  "version": "1.0.0",
+  "description": "Avalanche gas fee takipçisi",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunberi/avalanche-gas-fee-tracker.git"
+  },
+  "keywords": [
+    "Avalanche",
+    "Gas",
+    "Fee"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^18.0.3"
+  },
+  "dependencies": {
+    "electron-store": "^8.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/gunberi/avalanche-gas-fee-tracker/issues"
+  },
+  "homepage": "https://github.com/gunberi/avalanche-gas-fee-tracker#readme"
+}
